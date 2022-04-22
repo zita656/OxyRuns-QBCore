@@ -1,0 +1,6 @@
+-- THIS EVENT NEEDS TO BE ADDED IN YOUR INVENTORY SCRIPT
+
+TriggerEvent("oxyrun:client:hasPackage")
+
+-- ADD IT UNDER ALL THE DIFFRENT PLACES WHERE THE INVENTORY UPDATES. (Open., closeinventory, open trunk, open glovebox, open drop, stash etc.)
+
