@@ -6,11 +6,11 @@ description "OxyRun"
 version "1.2"
 
 client_scripts {
-	'client/main.lua',
+	'client.lua',
 	'config.lua'
 }
 
 server_scripts {
-	'server/main.lua',
+	'server.lua',
 	'config.lua'
 }
